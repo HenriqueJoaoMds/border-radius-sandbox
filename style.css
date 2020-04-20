@@ -1,0 +1,22 @@
+.box {
+  height: 50vh;
+  width: 50vh;
+  border: 5px solid black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.slider {
+  width: 50vh;
+}
+
+.main-container {
+  text-align: center;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
